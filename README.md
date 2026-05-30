@@ -19,7 +19,7 @@ Este é um sistema completo de gestão e controlo de inventário desenvolvido co
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/paulobueno20126-fabricante/desafio-zdz-stock.git](https://github.com/paulobueno20126-fabricante/desafio-zdz-stock.git)
+git clone [https://github.com/paulobueno20126-maker/desafio-zdz-stock.git](https://github.com/paulobueno20126-maker/desafio-zdz-stock.git)
 cd desafio-zdz-stock
 
 2. Executar o Backend (C#)
