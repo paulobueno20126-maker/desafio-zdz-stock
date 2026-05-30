@@ -25,23 +25,23 @@ cd desafio-zdz-stock
 2. Executar o Backend (C#)
 Navega até à pasta do servidor:
 
-Bash
+```Bash
 cd Backend
 Executa a API:
 
-Bash
+```Bash
 dotnet run
 
 3. Executar o Frontend (Nuxt 3)
 Abre uma nova janela do terminal e navega até à pasta do cliente:
 
-Bash
+```Bash
 cd Frontend
 Instala as dependências necessárias:
 
-Bash
+```Bash
 npm install
 Inicia o servidor de desenvolvimento:
 
-Bash
+```Bash
 npm run dev
