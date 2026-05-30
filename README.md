@@ -21,3 +21,27 @@ Este é um sistema completo de gestão e controlo de inventário desenvolvido co
 ```bash
 git clone [https://github.com/paulobueno20126-fabricante/desafio-zdz-stock.git](https://github.com/paulobueno20126-fabricante/desafio-zdz-stock.git)
 cd desafio-zdz-stock
+
+2. Executar o Backend (C#)
+Navega até à pasta do servidor:
+
+Bash
+cd Backend
+Executa a API:
+
+Bash
+dotnet run
+
+3. Executar o Frontend (Nuxt 3)
+Abre uma nova janela do terminal e navega até à pasta do cliente:
+
+Bash
+cd Frontend
+Instala as dependências necessárias:
+
+Bash
+npm install
+Inicia o servidor de desenvolvimento:
+
+Bash
+npm run dev
